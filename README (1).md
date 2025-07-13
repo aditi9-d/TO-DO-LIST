@@ -21,11 +21,11 @@ This project is a **To-Do List Application** created in **Python** within a **Ju
 
 1. Clone the repository:
     ```bash
-   git clone https://github.com/aditi9_d/todo-list.git
+   git clone https://github.com/aditi9-d/todo-list.git
     ```
 2. Change into the project directory:
     ```bash
-    cd your-repo-name
+    cd to-do-list
     ```
 3. Launch the notebook:
     ```bash
